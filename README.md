@@ -1,4 +1,4 @@
-# Guild Token
+# DNA Token
 
 ```bash
 yarn
