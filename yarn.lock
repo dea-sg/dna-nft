@@ -30,7 +30,7 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@dea-sg/layerzero@^1.3.0":
+"@dea-sg/layerzero@1.3.0":
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@dea-sg/layerzero/-/layerzero-1.3.0.tgz#02e7e8baf5f0969932c3a47bfa6ea2f7af9c0288"
   integrity sha512-0bA5x02G9lOZ5BHYaWRxF6VRaot2YezKBbhViAYChSILcKlnD2SV+coS7X132VHbHW+6BZi26nbWvbolMhIXug==
@@ -1343,21 +1343,21 @@
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.6.0.tgz#c91cf64bc27f573836dba4122758b4743418c1b3"
   integrity sha512-8vi4d50NNya/bQqCmaVzvHNmwHvS0OBKb7HNtuNwEE3scXWrP31fKQoGxNMT+KbzmrNZzatE3QK5p2gFONI/hg==
 
-"@openzeppelin/hardhat-upgrades@1.18.1":
-  version "1.18.1"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/hardhat-upgrades/-/hardhat-upgrades-1.18.1.tgz#5faf56fc0cd16a39909104ce670d7b0830cd3004"
-  integrity sha512-x0KzKmGWk4o5/o40MXKISS2P9ru5EePXedX0E4N4yuE/ZVdOvM8txaAdcdNniFoL4RY8Se6RdcWemZ3JTlRAEQ==
+"@openzeppelin/hardhat-upgrades@1.19.1":
+  version "1.19.1"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/hardhat-upgrades/-/hardhat-upgrades-1.19.1.tgz#34907928c0b4acdfbc2cffa32eb59730a5b62e3e"
+  integrity sha512-LvUClx+c8DIS6T5ZEPsz+HSRztvY9wjAI4qZH8IaTswjPAT/mqXZWmuQF96fFopR+jKpUNmI4IUo5wLt2TkdKQ==
   dependencies:
-    "@openzeppelin/upgrades-core" "^1.15.0"
+    "@openzeppelin/upgrades-core" "^1.16.0"
     chalk "^4.1.0"
+    debug "^4.1.1"
     proper-lockfile "^4.1.1"
 
-"@openzeppelin/upgrades-core@^1.15.0":
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/upgrades-core/-/upgrades-core-1.15.0.tgz#58e3137915f6dbf025107be6072be02ab443b4ea"
-  integrity sha512-dzyRzvr2E8YWGtmU5+MiAxsFfd5cyGYNBn164NHys5bfDkVSUaE0Vt0DYDsM4kNz3kVU6SXdUAcWez2OsoNkIA==
+"@openzeppelin/upgrades-core@^1.16.0":
+  version "1.17.0"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/upgrades-core/-/upgrades-core-1.17.0.tgz#f9941d83f9532d8e8b1ff570d2a3cb1e40a8769c"
+  integrity sha512-GaR3XiJ5PUKrHwz+EFJ9gtj2/taiFRWufbUaCgc1JEit1ERB9fI8PWEO0VTL+KzCZPl6meyT7RIhKNBRcX6jsA==
   dependencies:
-    bn.js "^5.1.2"
     cbor "^8.0.0"
     chalk "^4.1.0"
     compare-versions "^4.0.0"
