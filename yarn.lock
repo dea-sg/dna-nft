@@ -30,7 +30,7 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@dea-sg/layerzero@^1.3.0":
+"@dea-sg/layerzero@1.3.0":
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@dea-sg/layerzero/-/layerzero-1.3.0.tgz#02e7e8baf5f0969932c3a47bfa6ea2f7af9c0288"
   integrity sha512-0bA5x02G9lOZ5BHYaWRxF6VRaot2YezKBbhViAYChSILcKlnD2SV+coS7X132VHbHW+6BZi26nbWvbolMhIXug==
@@ -1342,6 +1342,11 @@
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.6.0.tgz#c91cf64bc27f573836dba4122758b4743418c1b3"
   integrity sha512-8vi4d50NNya/bQqCmaVzvHNmwHvS0OBKb7HNtuNwEE3scXWrP31fKQoGxNMT+KbzmrNZzatE3QK5p2gFONI/hg==
+
+"@openzeppelin/contracts@4.7.2":
+  version "4.7.2"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.7.2.tgz#7587416fe2d35abf574193515b8971bfe9f64bc7"
+  integrity sha512-4n/JL9izql8303mPqPdubuna/DWEMbmOzWYUWyCPhjhiEr2w3nQrjE7vZz1fBF+wzzP6dZbIcsgqACk53c9FGA==
 
 "@openzeppelin/hardhat-upgrades@1.18.1":
   version "1.18.1"
